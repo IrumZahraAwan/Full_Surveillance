@@ -1,0 +1,4 @@
+/home/irum/Desktop/EmailCodeforServer/user_psw.txt
+/home/irum/Desktop/EmailCodeforServer/BIG-BODY
+/home/irum/Desktop/EmailCodeforServer/internet_status.txt
+
